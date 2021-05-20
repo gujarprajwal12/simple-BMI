@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Bmi Calculate</string>
+    <string name="Weight">weight</string>
+    <string name="weight">weight</string >
+    <string name="height" > height </string>
+    <string name="calculateBMI" > calculateBMI </string>
+    <string name="Result">Result</string>
+    <string name="very_Severly_underweigh">very_Severly_underweigh</string>
+    <string name="severly_underweight">severly_underweight</string>
+    <string name="underweight">underweight</string>
+    <string name="normal">normal</string>
+    <string name="overweight">overweight</string>
+    <string name="obese_class_I">obese_class_I</string>
+    <string name="obese_class_II">obese_class_II</string>
+    <string name="obese_class_III">obese_class_III</string>
+</resources>
